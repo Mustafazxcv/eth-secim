@@ -1,3 +1,5 @@
+# Dosyalar Master Dalında
+
 # secim-contract dosyası
 - cd secim-contract
 - npm install 
